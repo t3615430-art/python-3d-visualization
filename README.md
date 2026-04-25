@@ -1,2 +1,15 @@
-# python-3d-visualization
-Beautiful 3D visualizations in Python — wave, spiral, mountains and sphere using matplotlib.
+# Python 3D Visualization
+
+Beautiful 3D graphics using matplotlib and numpy.
+
+## Visualizations
+- 3D Wave — sine wave surface
+- 3D Spiral — rotating helix
+- 3D Mountains — random terrain
+- 3D Sphere — colorful ball
+
+## How to run
+python visualization_3d.py
+
+## Requirements
+pip install matplotlib numpy
